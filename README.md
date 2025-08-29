@@ -52,8 +52,7 @@
 
 1.  **Клонируйте репозиторий:**
     ```bash
-    [git clone https://github.com/your_username/AI-Debt-Recovery-Predictor.git
-    cd AI-Debt-Recovery-Predictor](https://github.com/Serx17/AI-Debt-Recovery-Predictor/tree/main?tab=readme-ov-file)
+    https://github.com/Serx17/AI-Debt-Recovery-Predictor/blob/main/README.md
     ```
 
 2.  **Установите зависимости:**
@@ -87,4 +86,5 @@
 
 
 *Если вас заинтересовал этот проект или вы ищете специалиста с уникальным сочетанием опыта в юриспруденции, IT и управлении — давайтеconnectиться!*
+
 
